@@ -1,4 +1,6 @@
 # signup-form
+(see also https://github.com/clone206/cipher-server)
+
 A frontend-only signup form in angular/bootstrap
 
 # Prerequisites for building/debugging
